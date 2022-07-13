@@ -1,0 +1,6 @@
+venv/
+.idea/
+.env
+app/.env
+app/static
+*.pyc
